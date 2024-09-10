@@ -1,0 +1,6 @@
+tensorflow
+numpy
+matplotlib
+pandas
+scikit-learn
+pillow  # For image processing
